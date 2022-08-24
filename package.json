@@ -1,0 +1,14 @@
+{
+    "name": "github-projects-column-hider",
+    "version": "0.1.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+       
+    },
+    "dependencies": {}
+}
